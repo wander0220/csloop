@@ -26,6 +26,10 @@ namespace csloop
             {
                 Console.WriteLine(item);
             }
+
+            string input = "day6 comeback after 3days~!~!!!";
+            Console.WriteLine(input.ToUpper());
+            Console.WriteLine(input.ToLower());
         }
     }
 }
